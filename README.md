@@ -1,2 +1,2 @@
 # take-pics
-take pics using opencv
+take pics by webcam using opencv
